@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi👋, I'm Aman Nalakath
 
+Master's student in Agricultural Biosciences at TUM.  
+I work on bioinformatics, epigenetics, and genome architecture.
 <!--
 **ToruOkadaOi/ToruOkadaOi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
