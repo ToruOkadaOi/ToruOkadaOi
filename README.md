@@ -2,4 +2,4 @@
 
 Master's student @ TUM  
 
-I work on - 3D genome architecture | Epigenetics | Computational genomics
+I work on - 3D genome architecture | Epigenetics | Computational biology
